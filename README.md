@@ -2,7 +2,7 @@
 ## how to start 
 
  Open terminal and type
-     1.python3 -m venv env
+     1.python3 -m venv env<br>
      2.$ source env/bin/activate
      3.$ pip install django
      4.django-admin startproject ClickCraze
