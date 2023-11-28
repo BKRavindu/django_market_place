@@ -1,13 +1,13 @@
 # django_market_place
 ## how to start 
 
-1. Open terminal and type
-     python3 -m venv env
-     $ source env/bin/activate
-     $ pip install django
-     django-admin startproject ClickCraze
-     cd <app name>
-     python manage.py runserver ---> This run the server
-      python manage.py startapp core
+ Open terminal and type
+     1.python3 -m venv env
+     2.$ source env/bin/activate
+     3.$ pip install django
+     4.django-admin startproject ClickCraze
+     5.cd <app name>
+     6.python manage.py runserver ---> This run the server
+     7.python manage.py startapp core
 
    
